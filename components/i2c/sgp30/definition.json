@@ -1,0 +1,5 @@
+{
+  "displayName": "SGP30",
+    "i2cAddresses": [ "0x58"],
+    "subcomponents": [ "VOC", "C02e" ]
+}
